@@ -1,0 +1,9 @@
+[submodule "snow-crash"]
+	path = snow-crash
+	url = https://github.com/MalinPolina/snow-crash
+[submodule "boot2root"]
+	path = boot2root
+	url = https://github.com/MalinPolina/boot2root
+[submodule "override"]
+	path = override
+	url = https://github.com/MalinPolina/override
